@@ -5,8 +5,8 @@ module.exports = {
       name: `Ericson Santiago`,
       summary: `and these are my (ugly) code musings, random rants and some experiments.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Experimental and rants`,
+    siteUrl: ``,
     social: {
       github: `erickills`,
       siteUrl: `https://github.com/erickills/`,
