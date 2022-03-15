@@ -1,5 +1,5 @@
 ---
-title: Tadaaaa!
+title: Foobar!
 date: "2022-03-15T22:12:03.284Z"
 description: "Something that I have done for today"
 ---
