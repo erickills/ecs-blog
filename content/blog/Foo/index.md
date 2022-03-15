@@ -1,7 +1,7 @@
 ---
-title: Foobar
+title: Tadaaaa!
 date: "2022-03-15T22:12:03.284Z"
-description: "Tadaaa"
+description: "Something that I have done for today"
 ---
 
 Hello! I'm Ericson, this is my first and hopefully not my last post. 
