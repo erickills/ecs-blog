@@ -3,7 +3,7 @@ module.exports = {
     title: `.erickills`,
     author: {
       name: `Ericson Santiago`,
-      summary: `Im using this to log my personal learnings, attempts, experiments with various technologies that fascinates me.`,
+      summary: `I'm using this to log my personal learnings, attempts, experiments with various technologies that fascinates me.`,
     },
     description: `Experimental and rants`,
     siteUrl: `https://www.gatsbyjs.com`,
