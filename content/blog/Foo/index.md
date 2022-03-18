@@ -8,4 +8,4 @@ Hello! I'm Ericson, this is my first and hopefully not my last post.
 
 I'm sure I'll write a lot more interesting things in the future.
 
-Bye for now! 
+Bye for now!
