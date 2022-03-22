@@ -1,5 +1,5 @@
 ---
-title: Foobar!
+title: Foo bar!
 date: "2022-03-15T06:50:00.000Z"
 description: "☝️ Something that I have done for today"
 ---
