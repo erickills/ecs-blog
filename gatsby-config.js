@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `> ecs _`,
+    title: `ec$ _`,
     author: {
       name: `Ericson Santiago`,
       summary: `I'm using this to document my personal learnings, attempts, experiments with various technologies that fascinates me.
