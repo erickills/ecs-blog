@@ -1,5 +1,5 @@
 ---
-title: Linux Privelege Escalation
+title: Linux Privilege Escalation
 date: "2022-03-21T00:00:00.000Z"
 description:  📈 The purpose of this attempt is to gain unauthorize access to the system and locate some weak points.
 ---
