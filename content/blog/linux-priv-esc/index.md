@@ -1,9 +1,10 @@
 ---
 title: Linux Privelege Escalation
 date: "2022-03-21T00:00:00.000Z"
+description:  📈 The purpose of this attempt is to gain unauthorize access to the system and locate some weak points.
 ---
 
- 📈 Recently I conducted some user privelege test / check in my Linux host machine here are the commands I used and useful resources.
+ 📈 The purpose of this attempt is to gain unauthorize access to the system and locate some weak points. Here are the commands that I used and useful resources that makes a potential access gain.
 
 
 ###### Check Kernel Version 
