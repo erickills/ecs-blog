@@ -12,7 +12,7 @@ module.exports = {
       github: `erickills`,
       siteUrl: `https://github.com/erickills/`,
       facebook: `erckills`,
-      siteUrl: `http://facebook.com/erckills/`
+      siteUrl: `http://facebook.com/erckills/`,
     },
   },
   plugins: [
