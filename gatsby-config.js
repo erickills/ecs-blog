@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `#!/bin/ecs`,
+    title: `$ /ecs/exports _`,
     author: {
       name: `Ericson Santiago`,
       summary: `I'm using this to document my personal learnings, attempts, experiments with various technologies that fascinates me.
@@ -12,7 +12,7 @@ module.exports = {
       github: `erickills`,
       siteUrl: `https://github.com/erickills/`,
       facebook: `erckills`,
-      siteUrl: `http://facebook.com/erckills/`,
+      siteUrl: `https://facebook.com/erckills/`,
     },
   },
   plugins: [
