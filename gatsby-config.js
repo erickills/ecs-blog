@@ -11,6 +11,8 @@ module.exports = {
     social: {
       github: `erickills`,
       siteUrl: `https://github.com/erickills/`,
+      facebook: `erckills`,
+      siteUrl: `http://facebook.com/erckills/`
     },
   },
   plugins: [
@@ -94,7 +96,7 @@ module.exports = {
                 ) {
                   nodes {
                     excerpt
-                    html
+                    htmlhttps://netlify.com/
                     fields {
                       slug
                     }
