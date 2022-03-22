@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `fetch.es`,
+    title: `ec$_`,
     author: {
       name: `Ericson Santiago`,
       summary: `I'm using this to document my personal learnings, attempts, experiments with various technologies that fascinates me.
-      We get better by trying.`,
+      We get better by trying. Don't mind skeletor on the side haha`,
     },
     description: `Experimental and rants`,
     siteUrl: `https://www.gatsbyjs.com`,
