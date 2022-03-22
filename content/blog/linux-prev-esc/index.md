@@ -1,12 +1,12 @@
 ---
 title: Linux Privelege Escalation
-date: "2022-03-21T23:46:37.121Z"
+date: "2022-03-21T00:00:00.000Z"
 ---
 
-Recently I conducted some user privelege test / check in my Linux host machine here are the commands I used and some resources.
+ 📈 Recently I conducted some user privelege test / check in my Linux host machine here are the commands I used and some resources.
 
 
-###### Check Kernel Version
+###### Check Kernel Version 
 ```uname -a```
 
 ###### Check distro version
