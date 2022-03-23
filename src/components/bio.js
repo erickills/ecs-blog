@@ -20,6 +20,7 @@ const Bio = () => {
           }
           social {
             github
+            facebook
           }
         }
       }
