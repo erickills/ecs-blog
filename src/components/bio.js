@@ -48,7 +48,7 @@ const Bio = () => {
           Howdy! I'm <a href={`https://facebook.com/erckills/${social?.facebook || ``}`}><strong>{author.name}</strong></a> {author?.summary || null}
           {` `} 
           <a href={`https://github.com/${social?.github || ``}`}>
-            Follow me on github!
+            Follow me on github.
           </a>
         </p>
       )}

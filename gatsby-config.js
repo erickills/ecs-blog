@@ -1,18 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: `ec$ _s`,
+    title: `ecs`,
     author: {
       name: `Ericson Santiago`,
-      summary: `I'm using this to document my personal learnings, attempts, experiments with various technologies that fascinates me.
-      We get better by trying. Don't mind skeletor on the side haha`,
+      summary: `I'm using this to document my personal learnings, attempts, experiments with various technologies that fascinates me,
+      We get better by trying. Don't mind skeletor on the side haha.`,
     },
     description: `Experimental and rants`,
-    siteUrl: `https://www.gatsbyjs.com`,
+    siteUrl: `https://www.fetch-es.netlify.app`,
     social: {
-      github: `erickills`,
-      siteUrl: `https://github.com/erickills/`,
-      facebook: `erckills`,
-      siteUrl: `https://facebook.com/erckills/`,
+      github: `erickills`, // added by me
+      siteUrl: `https://github.com/erickills/`, // added by me
+      facebook: `erckills`,                     // added by me
+      siteUrl: `https://facebook.com/erckills/`, // addedd by me
     },
   },
   plugins: [
