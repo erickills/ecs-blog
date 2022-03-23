@@ -6,7 +6,7 @@ module.exports = {
       summary: `I'm using this to document my personal learnings, attempts, experiments with various technologies that fascinates me, We get better by trying. Don't mind skeletor on the side haha.`,
     },
     description: `Experimental and rants`,
-    siteUrl: `https://www.fetch-es.netlify.app`,
+    siteUrl: `https://www.gatsbyjs.com/`,
     social: {
       github: `erickills`, // added by me
       siteUrl: `https://github.com/erickills/`, // added by me
@@ -95,7 +95,7 @@ module.exports = {
                 ) {
                   nodes {
                     excerpt
-                    html https://netlify.com/
+                    html https://www.netlify.com/
                     fields {
                       slug
                     }
@@ -108,7 +108,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "ecs RSS Feed", // Gatsby Starter Blog RSS Feed
           },
         ],
       },
@@ -116,8 +116,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `ecs`, // Gatsby Start Blog
+        short_name: `ecs`, // GatsbyJS
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
