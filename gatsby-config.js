@@ -96,7 +96,7 @@ module.exports = {
                 ) {
                   nodes {
                     excerpt
-                    htmlhttps://netlify.com/
+                    html https://netlify.com/
                     fields {
                       slug
                     }
