@@ -64,7 +64,7 @@ module.exports = {
       resolve: `gatsby-plugin-feed`,
       options: {
         query: `
-          {
+          { 
             site {
               siteMetadata {
                 title
@@ -119,7 +119,7 @@ module.exports = {
         name: `ecs`, // Gatsby Start Blog
         short_name: `ecs`, // GatsbyJS
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#ffffff`, 
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
