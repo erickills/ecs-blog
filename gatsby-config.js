@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `.esrc`,
+    title: `es.log`,
     author: {
       name: `Ericson Santiago`,
       summary: `I'm using this to document my personal learnings, attempts, experiments with various technologies that fascinates me, We get better by trying. Don't mind skeletor on the side haha.`,
