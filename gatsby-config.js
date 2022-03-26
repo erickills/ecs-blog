@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `ec$ _`,
+    title: `.esrc`,
     author: {
       name: `Ericson Santiago`,
       summary: `I'm using this to document my personal learnings, attempts, experiments with various technologies that fascinates me, We get better by trying. Don't mind skeletor on the side haha.`,
@@ -60,7 +60,59 @@ module.exports = {
     //     trackingId: `ADD YOUR TRACKING ID HERE`,
     //   },
     // },
-    
+   /* {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: ` 
+          { 
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl 
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.nodes.map(node => {
+                return Object.assign({}, node.frontmatter, {
+                  description: node.excerpt,
+                  date: node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + node.fields.slug,
+                  guid: site.siteMetadata.siteUrl + node.fields.slug,
+                  custom_elements: [{ "content:encoded": node.html }],
+                })
+              })
+            },
+            query: `
+              {
+                allMarkdownRemark(
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                ) {
+                  nodes {
+                    excerpt
+                    html https://www.netlify.com/
+                    fields {
+                      slug
+                    }
+                    frontmatter {
+                      title
+                      date
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss.xml",
+            title: "ecs RSS Feed", // Gatsby Starter Blog RSS Feed
+          },
+        ],
+      },
+    }, */
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
