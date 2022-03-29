@@ -4,7 +4,7 @@ date: "2022-03-21T00:00:00.000Z"
 description: The purpose of this attempt is to gain unauthorize access to the system and locate some weak points {just commands}.
 ---
 
- 📈 The purpose of this attempt is to gain unauthorize access to the system and locate some weak points. Here are the commands that I used and useful resources that makes a potential access gain.
+ ```The purpose of this attempt is to gain unauthorize access to the system and locate some weak points. Here are the commands that I used and useful resources that makes a potential access gain.```
 
 
 ###### Check Kernel Version 
