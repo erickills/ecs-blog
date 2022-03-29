@@ -52,7 +52,16 @@ const Bio = () => {
             Follow me on github.
           </a>
         </p>
-      )}
+      )}<StaticImage
+      className="bio-avatar"
+      layout="fixed"
+      formats={["auto", "webp", "avif"]}
+      src="../images/bracket2.png"
+      width={50}
+      height={50}
+      quality={95}
+      alt="Profile picture"
+    />
     </div>
   )
 }
