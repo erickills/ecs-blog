@@ -27,8 +27,10 @@ const Layout = ({ location, title, children }) => {
      <footer>
         © {new Date().getFullYear()}, Developed and deployed by none other than 
         {` `}
-        <a href="https://www.facebook.com/erckills">me</a>
+        <a href="https://www.facebook.com/erckills">me.</a> &nbsp;
+       
       </footer>
+      
     </div>
   )
 }
