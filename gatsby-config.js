@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `econf.d`,
+    title: `/erc/`,
     author: {
       name: `Ericson Santiago`,
       summary: ` I'm using this to document my personal learnings, attempts, experiments with various technologies that fascinates me, We get better by trying.`,
